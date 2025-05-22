@@ -19,29 +19,30 @@
 - **Backend:** PHP (Laravel Framework)  
 - **Frontend:** Blade, HTML/CSS, Bootstrap  
 - **Database:** MySQL  
-- **ML Integration:** Python (via API) or external service  
-- **APIs:** OpenWeather, Google Maps (optional)
+- **ML Integration:** Python (via API) or external service  (optional)
+- **APIs:** OpenWeather, Google Maps (in future)
 
 ---
 
 ## 🖼️ Demo Screens
-
-### 🔍 Landowner & Farmer Matching  
 ![Demo 1](images/demo1.jpg)
 
-### 📄 Contract Agreement Interface  
+### 📄 About us
 ![Demo 2](images/demo2.jpg)
 
-### 📈 Crop Recommendation Dashboard  
+### 📈 Authentication
 ![Demo 3](images/demo3.jpg)
 
-### 🌱 Soil & Climate Analysis  
+### 🌱 Registeration portal
 ![Demo 4](images/demo4.jpg)
 
+### 📄Form for farmers
 ![Demo 5](images/demo5.jpg)
 
+### 🔍 Landowner & Farmer Matching  
 ![Demo 6](images/demo6.jpg)
 
+### 📄Form for landowner
 ![Demo 7](images/demo7.jpg)
 
 
