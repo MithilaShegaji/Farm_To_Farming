@@ -27,16 +27,23 @@
 ## 🖼️ Demo Screens
 
 ### 🔍 Landowner & Farmer Matching  
-![Demo 1](images/demo1.png)
+![Demo 1](images/demo1.jpg)
 
 ### 📄 Contract Agreement Interface  
-![Demo 2](images/demo2.png)
+![Demo 2](images/demo2.jpg)
 
 ### 📈 Crop Recommendation Dashboard  
-![Demo 3](images/demo3.png)
+![Demo 3](images/demo3.jpg)
 
 ### 🌱 Soil & Climate Analysis  
-![Demo 4](images/demo4.png)
+![Demo 4](images/demo4.jpg)
+
+![Demo 5](images/demo5.jpg)
+
+![Demo 6](images/demo6.jpg)
+
+![Demo 7](images/demo7.jpg)
+
 
 ---
 
